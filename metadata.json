@@ -1,0 +1,6 @@
+{
+  "name": "RNN Interactive Visualizer & Backpropagation Simulator",
+  "description": "Interactive visualizer for Recurrent Neural Networks (RNN) showing hidden state transitions, weight matrix transformations, real-time parameter tweaking, and Backpropagation Through Time (BPTT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
